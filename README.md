@@ -1,2 +1,2 @@
 # Modern-Website-Project
-This is my first website mini project 
+This is my first website project
